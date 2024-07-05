@@ -14,6 +14,9 @@ This repository includes implementations for the following data structures:
   - Doubly Linked List
 - Stacks
 - Queues
+- Skip List
+  - Doubly
+  - Quadruply
 - Trees
   - Binary Tree
   - Binary Search Tree
